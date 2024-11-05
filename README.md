@@ -6,3 +6,10 @@ The files are in **.parquet** format.
 They can be read using Pandas as shown below.
 
   **df = pandas.read_parquet(<filename.parquet>)**
+
+Requires:
+    pandas 
+    parquet 
+    pyarrow
+
+Can be installed using pip.
