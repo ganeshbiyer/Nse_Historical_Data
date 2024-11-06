@@ -3,6 +3,8 @@
 Contains data from 2018.
 The files are in **.parquet** format.
 
+Includes 1 min data for Nifty, BankNifty, FinNifty and MidcapNifty indexes.
+
 They can be read using Pandas as shown below.
 
   **df = pandas.read_parquet(<filename.parquet>)**
