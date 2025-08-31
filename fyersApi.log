@@ -1,0 +1,4 @@
+{"level":"ERROR","location":"[get_call:146] fyersModel","message":{"API":"/history","Error":{"code":-300,"message":"Invalid symbol provided","s":"error"}},"timestamp":"2025-08-24 11:15:23,276+0530","service":"FyersAPI"}
+{"level":"ERROR","location":"[get_call:146] fyersModel","message":{"API":"/history","Error":{"code":-300,"message":"Invalid symbol provided","s":"error"}},"timestamp":"2025-08-24 11:17:04,088+0530","service":"FyersAPI"}
+{"level":"ERROR","location":"[get_call:146] fyersModel","message":{"API":"/history","Error":{"code":-300,"message":"Invalid symbol provided","s":"error"}},"timestamp":"2025-08-24 11:17:09,611+0530","service":"FyersAPI"}
+{"level":"ERROR","location":"[get_call:146] fyersModel","message":{"API":"/history","Error":{"code":-300,"message":"Invalid symbol provided","s":"error"}},"timestamp":"2025-08-24 11:17:28,485+0530","service":"FyersAPI"}
